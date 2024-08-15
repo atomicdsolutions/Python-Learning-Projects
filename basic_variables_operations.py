@@ -1,12 +1,12 @@
 name = "Jane Doe"
 age = 25
-is_student = true
+is_student = True
 
 print(name)
 
 print(age)
 
-pprint(is_student)
+print(is_student)
 
 print(5 * 5)
 

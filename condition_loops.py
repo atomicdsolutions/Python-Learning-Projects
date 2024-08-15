@@ -1,8 +1,8 @@
-temprature = 75
+temperature  = 75
 
-if temprature < 70 
+if temperature < 70 : 
 	print("It's Cold")
-if temprature >= 70 and temprature < 80
+elif temperature >= 70 and temperature < 80 :
 	print("It's Warm")
 else:
 	print("It's Hot")
